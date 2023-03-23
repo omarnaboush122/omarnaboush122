@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Tripoli, : Lebanon
+*   🌍  I'm based in Tripoli : Lebanon
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://omarnaboush122.github.io/my-portfolio/'>Portfolio</a>
 *   🧠  Currently learning TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
