@@ -6,7 +6,7 @@ I am Front End developer.
 
 *   🌍  I'm based in Tripoli : Lebanon
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://omarnaboush122.github.io/my-portfolio/'>Portfolio</a>
-*   🧠  Currently learning TypeScript
+*   🧠  Currently learning Next JS
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
